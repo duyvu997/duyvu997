@@ -1,5 +1,11 @@
 ### Hi there 👋
 Wellcome to my lab of code.
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/duy-vu-1a9767170/)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=duyvu997&show_icons=true&locale=en&layout=compact" alt="duyvu997" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duyvu997&show_icons=true&locale=en" alt="duyvu997" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=duyvu997&" alt="duyvu997" /></p>
 
 <!--
 **duyvu997/duyvu997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
