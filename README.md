@@ -3,6 +3,6 @@
 
 - ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duyvu997)
 
-- <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duyvu997&show_icons=true&locale=en&layout=compact" alt="duyvu997" style="width:500px;" /></p>
+- <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duyvu997&show_icons=true&locale=en&layout=compact" alt="duyvu997" style="width:495px;" /></p>
 
 - <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=duyvu997&" alt="duyvu997" style="width:500px;" /></p>
